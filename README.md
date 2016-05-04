@@ -59,13 +59,3 @@ See LICENSE for license terms.
 
 
 
-
-====== 数据结构 ======
-  -[[modeluser|用户]]
-  -[[modeltest|考试]]
-  -[[modelcategory|分类]]
-  -[[modelfeed|分享]]
-  -[[modelactivity|活动]]
-  -[[modelsupply|供求]]
-  -[[modelpay|支付]]
-  -[[modelvideo|视频]]
